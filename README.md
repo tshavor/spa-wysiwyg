@@ -2,9 +2,9 @@
 
 Instructions
 
-Create an array of objects that represents famous people (see structure below).
-Create a text input in your DOM.
-Beneath that, create a container, block element in your DOM.
+Create an array of objects that represents famous people (see structure below). (DONE)
+Create a text input in your DOM.(DONE)
+Beneath that, create a container, block element in your DOM.(DONE)
 Create a DOM element for each of the objects inside the container. Style your person elements however you like.
 For every even numbered element, have a light yellow background.
 For every odd numbered element, have a light blue background.
